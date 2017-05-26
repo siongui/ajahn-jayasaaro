@@ -90,6 +90,8 @@ References
 .. [2] | JINJA_FILTERS in `Settings — Pelican documentation <http://docs.getpelican.com/en/latest/settings.html>`_
        | `Jinja custom filters documentation <http://jinja.pocoo.org/docs/dev/api/#custom-filters>`_
 
+.. [3] `Scribble – Convert handwriting into digital text | Hacker News <https://news.ycombinator.com/item?id=14423693>`_
+
 .. _Pelican: http://blog.getpelican.com/
 .. _Ubuntu 17.04: http://releases.ubuntu.com/17.04/
 .. _UNLICENSE: http://unlicense.org/
