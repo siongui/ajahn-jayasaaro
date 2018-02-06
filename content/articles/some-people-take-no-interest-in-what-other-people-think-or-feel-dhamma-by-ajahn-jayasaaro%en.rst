@@ -1,11 +1,11 @@
-Some people take no interest in what other people think or feel. ... - Dhamma by Ajahn Jayasāro
-###############################################################################################
+Some people take no interest in what other people think or feel ... - Dhamma by Ajahn Jayasāro
+##############################################################################################
 
-:date: 2016-04-06T07:00+08:00
+:date: 2016-04-06T07:00:00+08:00
 :author: Ajahn Jayasāro
 :tags: Ajahn Jayasāro
 :category: Ajahn Jayasāro
-:summary: Some people take no interest in what other people think or feel. ...
+:summary: Some people take no interest in what other people think or feel ...
           - Dhamma by `Ajahn Jayasāro`_
 :og_image: http://cdn.amaravati.org/wp-content/uploads/2014/10/Ajahn-Jayasaro-by-Somkid.jpg
 
@@ -27,12 +27,16 @@ generosity, precepts and inner cultivation.
 
   `Ajahn Jayasāro`_
 
+.. image:: https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-9/12963826_885907878184566_458065102969001254_n.jpg?oh=18aca55825002131bb318f539efd6d68&oe=5AE2C2DE
+   :align: center
+   :alt: Some people take no interest in what other people think or feel
+
 ----
 
 Source:
 
 .. raw:: html
 
-  <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/jayasaro.panyaprateep.org/posts/885907878184566:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/jayasaro.panyaprateep.org/posts/885907878184566:0">Posted by <a href="https://www.facebook.com/jayasaro.panyaprateep.org/">ธรรมะ โดย พระอาจารย์ชยสาโร/ Dhamma by Ajahn Jayasaro</a> on&nbsp;<a href="https://www.facebook.com/jayasaro.panyaprateep.org/posts/885907878184566:0">Tuesday, April 5, 2016</a></blockquote></div></div>
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjayasaro.panyaprateep.org%2Fposts%2F885907878184566%3A0" width="auto" height="502" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 .. _Ajahn Jayasāro: http://www.amaravati.org/biographies/ajahn-jayasaro/
