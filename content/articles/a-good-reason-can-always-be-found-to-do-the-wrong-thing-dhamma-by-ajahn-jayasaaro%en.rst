@@ -1,7 +1,7 @@
-A good reason can always be found to do the wrong thing. ... - Dhamma by Ajahn Jayasāro
-#######################################################################################
+A good reason can always be found to do the wrong thing ... - Dhamma by Ajahn Jayasāro
+######################################################################################
 
-:date: 2016-02-24T07:00+08:00
+:date: 2016-02-24T07:00:00+08:00
 :author: Ajahn Jayasāro
 :tags: Ajahn Jayasāro
 :category: Ajahn Jayasāro
@@ -27,12 +27,16 @@ and make it truly trustworthy.
 
   `Ajahn Jayasāro`_
 
+.. image:: https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/12718177_858628947579126_7471851290604665392_n.jpg?oh=f33cf313386e2701babb88d34dbfea2b&oe=5B050BED
+   :align: center
+   :alt: A good reason can always be found to do the wrong thing
+
 ----
 
 Source:
 
 .. raw:: html
 
-  <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/jayasaro.panyaprateep.org/posts/858628947579126:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/jayasaro.panyaprateep.org/posts/858628947579126:0">Posted by <a href="https://www.facebook.com/jayasaro.panyaprateep.org/">ธรรมะ โดย พระอาจารย์ชยสาโร/ Dhamma by Ajahn Jayasaro</a> on&nbsp;<a href="https://www.facebook.com/jayasaro.panyaprateep.org/posts/858628947579126:0">Tuesday, February 23, 2016</a></blockquote></div></div>
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjayasaro.panyaprateep.org%2Fposts%2F858628947579126%3A0" width="auto" height="5" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 .. _Ajahn Jayasāro: http://www.amaravati.org/biographies/ajahn-jayasaro/

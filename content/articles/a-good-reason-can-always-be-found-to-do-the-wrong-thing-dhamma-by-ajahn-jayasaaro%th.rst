@@ -19,7 +19,7 @@
   | ธรรมะคำสอน โดย `พระอาจารย์ชยสาโร`_
   | แปลถอดความ โดย ปิยสีโลภิกขุ
 
-.. image:: https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/12742586_859068554201832_6944828737377966986_n.jpg?oh=f5000b52fb042d229daf81600996441b&oe=59BF9963
+.. image:: https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/12742586_859068554201832_6944828737377966986_n.jpg?oh=2add0f0ef85dad142a085e7b2cc20dac&oe=5B238E63
    :align: center
    :alt: กิเลสของเราสามารถหาเหตุ
 
