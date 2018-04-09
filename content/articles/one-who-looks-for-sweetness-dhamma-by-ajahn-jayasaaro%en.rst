@@ -31,6 +31,6 @@ Source:
 
 .. raw:: html
 
-  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjayasaro.panyaprateep.org%2Fposts%2F763509493757739%3A0" width="auto" height="5" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjayasaro.panyaprateep.org%2Fposts%2F763509493757739%3A0" width="auto" height="509" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 .. _Ajahn Jayasāro: http://www.amaravati.org/biographies/ajahn-jayasaro/
