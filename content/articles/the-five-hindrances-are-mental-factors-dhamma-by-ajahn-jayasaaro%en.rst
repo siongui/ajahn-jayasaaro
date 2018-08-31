@@ -9,7 +9,28 @@ The five hindrances (niv훮ran훮) are mental factors ... - Dhamma by Ajahn Jayas�
           - Dhamma by `Ajahn Jayas훮ro`_
 :og_image: http://cdn.amaravati.org/wp-content/uploads/2014/10/Ajahn-Jayasaro-by-Somkid.jpg
 
-The five hindrances (niv훮ran훮) are mental factors that prevent the mind from realizing peace and wisdom
+The five hindrances (niv훮ran훮) are mental factors that prevent the mind from
+realizing peace and wisdom. Progress in meditation may be gauged by the extent
+to which the mind can free itself of these hindrances.
+
+The Buddha revealed the ways in which the hindrances prevent clear vision by
+comparing the mind to a bowl of pure water and the hindrances to various
+distortions of the stillness and transparency of the water.
+
+Sensual desires are compared to various coloured dyes added to the water.
+
+Aversion is compared to heat that boils the water and makes it bubble violently.
+
+Sloth and torpor are compared to water-plants that grow over the water and
+conceal it.
+
+Restlessness is compared to a wind disturbing the surface of the water.
+
+Doubt is like mud in the water and darkness around it, rendering the water
+invisible.
+
+The path of meditation includes learning how to protect the mind from these
+hindrances, and when unable to do so, how to let them go.
 
 .. container:: align-right
 
