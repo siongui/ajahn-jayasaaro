@@ -71,7 +71,6 @@ I18N_SUBSITES = {
   'th': {
     'SITENAME': 'พระอาจารย์ชยสาโร',
     'AUTHOR': 'พระอาจารย์ชยสาโร',
-    'DEFAULT_LANG': 'Thai',
     'LOCALE': 'th_TH.UTF-8',
     'META_KEYWORDS': 'พระอาจารย์ชยสาโร',
     'META_DESCRIPTION': 'พระอาจารย์ชยสาโร',
