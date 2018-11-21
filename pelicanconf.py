@@ -19,9 +19,6 @@ STATIC_PATHS = ['articles', 'extra', 'code']
 EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
                        'extra/yezi.png': {'path': 'favicon.ico'},}
 
-# try workaround for https://github.com/getpelican/pelican-plugins/issues/1087
-DOCUTILS_SETTINGS = {'language_code': 'en'}
-
 # modify TIMEZONE to your timezone
 TIMEZONE = 'Asia/Taipei'
 

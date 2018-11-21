@@ -50,7 +50,7 @@ else
 endif
 
 publish: scss clean
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS) --debug
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 github_project_page:
 	# http://docs.getpelican.com/en/latest/tips.html#publishing-to-github
