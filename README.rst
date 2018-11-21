@@ -8,7 +8,7 @@ How to Develope
 
 Development Tool: Pelican_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 17.04`_
+Development Environment: `Ubuntu 18.04`_
 
 
 First-time Setup
@@ -93,7 +93,7 @@ References
 .. [3] `Scribble – Convert handwriting into digital text | Hacker News <https://news.ycombinator.com/item?id=14423693>`_
 
 .. _Pelican: http://blog.getpelican.com/
-.. _Ubuntu 17.04: http://releases.ubuntu.com/17.04/
+.. _Ubuntu 18.04: http://releases.ubuntu.com/18.04/
 .. _UNLICENSE: http://unlicense.org/
 .. _git: https://git-scm.com/
 .. _pip: https://pypi.python.org/pypi/pip
