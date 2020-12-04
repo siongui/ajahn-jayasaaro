@@ -5,8 +5,8 @@ How to Develope
 .. .. image:: https://travis-ci.org/siongui/ajahn-jayasaaro.png?branch=master
     :target: https://travis-ci.org/siongui/ajahn-jayasaaro
 
-.. image:: https://github.com/siongui/master-sheng-yen/workflows/Pelican%20site%20CI/badge.svg
-    :target: https://github.com/siongui/master-sheng-yen/blob/master/.github/workflows/pelican.yml
+.. image:: https://github.com/siongui/ajahn-jayasaaro/workflows/Pelican%20site%20CI/badge.svg
+    :target: https://github.com/siongui/ajahn-jayasaaro/blob/master/.github/workflows/pelican.yml
 
 Development Tool: Pelican_ (static site generator written in Python)
 
