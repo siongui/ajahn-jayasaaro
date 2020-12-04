@@ -2,13 +2,15 @@
 How to Develope
 ===============
 
-.. image:: https://travis-ci.org/siongui/ajahn-jayasaaro.png?branch=master
+.. .. image:: https://travis-ci.org/siongui/ajahn-jayasaaro.png?branch=master
     :target: https://travis-ci.org/siongui/ajahn-jayasaaro
 
+.. image:: https://github.com/siongui/master-sheng-yen/workflows/Pelican%20site%20CI/badge.svg
+    :target: https://github.com/siongui/master-sheng-yen/blob/master/.github/workflows/pelican.yml
 
 Development Tool: Pelican_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 19.10`_
+Development Environment: `Ubuntu 20.04`_
 
 
 First-time Setup
@@ -91,7 +93,7 @@ References
 .. [3] `Scribble – Convert handwriting into digital text | Hacker News <https://news.ycombinator.com/item?id=14423693>`_
 
 .. _Pelican: http://blog.getpelican.com/
-.. _Ubuntu 19.10: http://releases.ubuntu.com/19.10/
+.. _Ubuntu 20.04: https://releases.ubuntu.com/20.04/
 .. _UNLICENSE: http://unlicense.org/
 .. _git: https://git-scm.com/
 .. _pip: https://pypi.python.org/pypi/pip
